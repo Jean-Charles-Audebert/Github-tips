@@ -1,0 +1,2 @@
+# Github-tips
+Configuration github
