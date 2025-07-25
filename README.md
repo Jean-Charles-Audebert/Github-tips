@@ -134,11 +134,11 @@ set -e
 # CONFIG
 # -----------------------
 PRO_PATH="Workspaces/Pro/"
-PRO_HOST="github.com-pro"
+PRO_HOST="github-pro"
 PRO_USERNAME="usernamePro"
 
 PERSO_PATH="Workspaces/Perso/"
-PERSO_HOST="github.com-perso"
+PERSO_HOST="github-perso"
 PERSO_USERNAME="usernamePerso"
 
 # Mode dry-run ? -- c'est pour tester sans rien pousser
